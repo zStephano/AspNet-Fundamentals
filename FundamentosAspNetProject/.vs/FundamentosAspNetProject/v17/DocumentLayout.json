@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\fundamentosaspnetproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\fundamentosaspnetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\fundamentosaspnetproject\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\fundamentosaspnetproject\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE47176-F226-4E07-93F4-3355CD7C76D4}|FundamentosAspNetProject.csproj|solutionrelative:models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:23:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:03:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoModel.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Models\\TodoModel.cs",
+              "RelativeDocumentMoniker": "Models\\TodoModel.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Models\\TodoModel.cs",
+              "RelativeToolTip": "Models\\TodoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:01:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\FundamentosAspNetProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:56:28.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

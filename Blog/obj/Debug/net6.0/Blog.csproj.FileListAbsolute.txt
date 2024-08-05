@@ -1,0 +1,6 @@
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Backend-Projects\CSharp\FundamentosAspNet\Blog\obj\Debug\net6.0\Blog.sourcelink.json
