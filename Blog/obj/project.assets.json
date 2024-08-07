@@ -4992,11 +4992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Blog.csproj",
+      "projectPath": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\obj\\",
+      "outputPath": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

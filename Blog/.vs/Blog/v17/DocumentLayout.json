@@ -1,57 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\",
+  "WorkspaceRootPath": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\AppData\\Roaming\\Microsoft\\UserSecrets\\65b7f1bf-5ebb-4a00-a200-a84d7dbecd4e\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\viewmodels\\responses\\posts\\listpostsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\viewmodels\\responses\\posts\\listpostsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:viewmodels\\responses\\posts\\listpostsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\extensions\\roleclaimsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\extensions\\roleclaimsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:extensions\\roleclaimsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\fundamentosaspnet\\blog\\data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|c:\\dev\\backend-projects\\csharp\\aspnet-fundamentals\\blog\\data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B146A59E-8EFB-4428-A618-9B4316D41908}|Blog.csproj|solutionrelative:data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -67,47 +74,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\gusta\\AppData\\Roaming\\Microsoft\\UserSecrets\\65b7f1bf-5ebb-4a00-a200-a84d7dbecd4e\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\gusta\\AppData\\Roaming\\Microsoft\\UserSecrets\\65b7f1bf-5ebb-4a00-a200-a84d7dbecd4e\\secrets.json",
+              "ToolTip": "C:\\Users\\gusta\\AppData\\Roaming\\Microsoft\\UserSecrets\\65b7f1bf-5ebb-4a00-a200-a84d7dbecd4e\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\gusta\\AppData\\Roaming\\Microsoft\\UserSecrets\\65b7f1bf-5ebb-4a00-a200-a84d7dbecd4e\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T00:57:14.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T00:55:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Program.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T03:39:03.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Data\\DataContext.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Data\\DataContext.cs",
               "RelativeToolTip": "Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T03:27:24.998Z"
+              "WhenOpened": "2024-07-30T03:27:24.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Startup.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Startup.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAwwE8AAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T02:39:05.812Z"
+              "WhenOpened": "2024-07-30T02:39:05.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Blog.csproj",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Blog.csproj",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Blog.csproj",
               "RelativeDocumentMoniker": "Blog.csproj",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Blog.csproj",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Blog.csproj",
               "RelativeToolTip": "Blog.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -115,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ListPostsViewModel.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
               "RelativeToolTip": "ViewModels\\Responses\\Posts\\ListPostsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Controllers\\PostController.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Controllers\\PostController.cs",
               "RelativeToolTip": "Controllers\\PostController.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAUwGsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Configuration.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Configuration.cs",
               "RelativeDocumentMoniker": "Configuration.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Configuration.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Configuration.cs",
               "RelativeToolTip": "Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Services\\EmailService.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Services\\EmailService.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Services\\EmailService.cs",
               "RelativeToolTip": "Services\\EmailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ApiKeyAttribute.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Attributes\\ApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Attributes\\ApiKeyAttribute.cs",
               "RelativeDocumentMoniker": "Attributes\\ApiKeyAttribute.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Attributes\\ApiKeyAttribute.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Attributes\\ApiKeyAttribute.cs",
               "RelativeToolTip": "Attributes\\ApiKeyAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RoleClaimsExtension.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Extensions\\RoleClaimsExtension.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Extensions\\RoleClaimsExtension.cs",
               "RelativeDocumentMoniker": "Extensions\\RoleClaimsExtension.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Extensions\\RoleClaimsExtension.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Extensions\\RoleClaimsExtension.cs",
               "RelativeToolTip": "Extensions\\RoleClaimsExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +234,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Services\\TokenService.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Services\\TokenService.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Services\\TokenService.cs",
               "RelativeToolTip": "Services\\TokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UserMap.cs",
-              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Data\\Mappings\\UserMap.cs",
+              "DocumentMoniker": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Data\\Mappings\\UserMap.cs",
               "RelativeDocumentMoniker": "Data\\Mappings\\UserMap.cs",
-              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\FundamentosAspNet\\Blog\\Data\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\dev\\Backend-Projects\\CSharp\\AspNet-Fundamentals\\Blog\\Data\\Mappings\\UserMap.cs",
               "RelativeToolTip": "Data\\Mappings\\UserMap.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA2wBwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
